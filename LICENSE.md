@@ -1,4 +1,4 @@
-# 
+# MEV sniper bot exclusive Bot - auto-buy and private-RPC-nodes is the best MEV sniper bot, featuring auto-buy and private-RPC-nodes. Fast, smart, and optimized for MEV and sniper
 
 
 
